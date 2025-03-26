@@ -1,4 +1,4 @@
-# MicroProjeto feito em Python - Gerador de QRCode para entrar no Youtube
+# Microprojeto feito em Python - Gerador de QRCode para entrar no Youtube
 
 
 ## Requirementos e bibliotecas usadas:
